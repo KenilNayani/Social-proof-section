@@ -191,6 +191,9 @@
     text-align: center;
     max-width: 100%;
    }
+    .about-text h1{
+    font-size: 2.8rem;
+    }
    .about-rating{
     display: flex;
     flex-direction: column;
